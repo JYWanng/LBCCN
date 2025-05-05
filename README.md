@@ -9,7 +9,7 @@ The noise data used for training is from the **DEMAND** dataset.
 
 ## 🔧 Errata
 
-We have identified and corrected the following inaccuracies in the original documentation:
+We have identified and corrected the following inaccuracies in the original paper:
 
 1. **Speaker Direction**:  
    The actual speaker direction used in the binaural speech enhancement experiments is **55 degrees**, not 45 degrees as previously mentioned.
